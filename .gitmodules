@@ -1,0 +1,3 @@
+[submodule "BSMPT"]
+	path = BSMPT
+	url = https://github.com/phbasler/BSMPT.git
